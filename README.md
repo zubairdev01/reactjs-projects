@@ -15,3 +15,4 @@ This repo follows my earlier JavaScript fundamentals series: [chai-aur-code-js](
 ## 🗂️ Structure
 
 Each folder represents a topic or project, containing the source code and notes.
+
